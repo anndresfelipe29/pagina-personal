@@ -1,1 +1,24 @@
 /* You can add global styles to this file, and also import other style files */
+@import '~bootstrap/dist/css/bootstrap.css';
+
+.bg-blue{
+    background:#2A5FE2 ;
+    font-size: 18px;
+}
+
+.navbar-blanco{
+    font-color: #fff;
+    
+}
+
+.footer-propio{        
+    bottom: 0;
+    width: 100%;
+    height: 40px;
+    color: #fff;
+}
+
+.activo {
+    color: #ffffff;  
+    text-decoration: underline;
+  }
